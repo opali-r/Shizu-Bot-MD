@@ -8,16 +8,16 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['34623442554', '👑 Shizu - Creador 👑', true],
-  ['34623442554']
+  ['923032112917', '👑 AYaZ - Creador 👑', true],
+  ['923032112917']
 ] 
-global.suittag = ['34623442554'] 
-global.prems = ['34623442554'] 
+global.suittag = ['923032112917'] 
+global.prems = ['923032112917'] 
 
 global.packname = '(≧▽≦)'
-global.author = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗛𝘂𝗯⍟'
-global.wm = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗕𝗼𝘁⍟ V5.3'
-global.igfg = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗕𝗼𝘁⍟'
+global.author = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 » 𝗛𝘂𝗯⍟'
+global.wm = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 » 𝗕𝗼𝘁⍟ V5.3'
+global.igfg = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 » 𝗕𝗼𝘁⍟'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
@@ -438,13 +438,13 @@ global.flaaa = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=',
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text=']
 global.gt = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗛𝘂𝗯⍟'
-global.mysticbot = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗛𝘂𝗯⍟'
+global.mysticbot = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 » 𝗛𝘂𝗯⍟'
 global.md = 'https://github.com/Shizu-Hub/Shizu-Bot-MD'
 global.mysticbot = 'https://github.com/Shizu-Hub/Shizu-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.nomorown = '34623442554'
+global.nomorown = '923032112917'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
