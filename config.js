@@ -8,15 +8,15 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['923032112917', '👑 AYaZ - Creador 👑', true],
-  ['923032112917']
+  ['642737254448', '👑 AYaZ - Creador 👑', true],
+  ['642737254448']
 ] 
-global.suittag = ['923032112917'] 
-global.prems = ['923032112917'] 
+global.suittag = ['642737254448'] 
+global.prems = ['642737254448'] 
 
-global.packname = '(≧▽≦)'
-global.author = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 » 𝗛𝘂𝗯⍟'
-global.wm = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 » 𝗕𝗼𝘁⍟ V5.3'
+global.packname = 'Made By'
+global.author = 'ɳoɓꀤʈɑ 👑🖤🎧'
+global.wm = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 » 𝗕𝗼𝘁⍟'
 global.igfg = '𓆩 𝐍𝐎𝐁𝐈𝐓𝐀 𓆪 » 𝗕𝗼𝘁⍟'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
@@ -444,7 +444,7 @@ global.mysticbot = 'https://github.com/Shizu-Hub/Shizu-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.nomorown = '923032112917'
+global.nomorown = '642737254448'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '
